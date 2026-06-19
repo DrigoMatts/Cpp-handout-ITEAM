@@ -76,7 +76,7 @@ g++ -o programa aposta.cpp
 ./programa
 ```
 
-### 👥 Contribuidores
+### 👥 Contribuidores do projeto bolão da copa
 
 Este projeto foi desenvolvido de forma totalmente colaborativa pelos seguintes desenvolvedores:
 
